@@ -178,7 +178,7 @@ gitalk:
    clientID: fa5df22340a335c3522d
    clientSecret: 60388a9d73540fa699171acadc9ab709606b9962
    repo: huangchunwu.github.io
-   owner: newhcw
+   owner: huangchunwu
    admin: newhcw
    perPage: 10
    distractionFreeMode: true
