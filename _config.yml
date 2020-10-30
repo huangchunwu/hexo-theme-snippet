@@ -175,11 +175,11 @@ livere:
 ## Gitalk评论
 gitalk:
    enable: true
-   clientID: bb328f8beadf409c6023
-   clientSecret: 2a4cabac9606bf7d18acd5154b325b06b2aadcbb
+   clientID: fa5df22340a335c3522d
+   clientSecret: 60388a9d73540fa699171acadc9ab709606b9962
    repo: huangchunwu.github.io
-   owner: huangchunwu
-   admin: huangchunwu
+   owner: newhcw
+   admin: newhcw
    perPage: 10
    distractionFreeMode: true
 
